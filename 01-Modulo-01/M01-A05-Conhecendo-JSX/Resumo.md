@@ -16,7 +16,7 @@ const element = <h1>Hello, world!</h1>;
 
 - Isso porque precisamos da CDN do Babel;
 
-- O Babel é uma ferramenta utilizada para compilar JavasCript;
+- O Babel é uma ferramenta utilizada para compilar Javascript;
 
 ```javascript
 <script>
